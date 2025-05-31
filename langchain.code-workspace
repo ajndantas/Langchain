@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"especificado"
+		],
+		"CodeGPT.apiKey": "OpenAI",
+		"git.ignoreLimitWarning": true
+	}
+}
