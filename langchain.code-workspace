@@ -8,7 +8,6 @@
 		"cSpell.words": [
 			"especificado"
 		],
-		"CodeGPT.apiKey": "OpenAI",
-		"git.ignoreLimitWarning": true
+		"CodeGPT.apiKey": "Ollama"
 	}
 }
