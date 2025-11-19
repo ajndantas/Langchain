@@ -1,6 +1,6 @@
 **/desktop.ini
-**/Lib
-**/site-packages
+Lib
+site-packages
 **/etc
 **/Include
 **/share
