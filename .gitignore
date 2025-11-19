@@ -1,5 +1,6 @@
 **/desktop.ini
-**/Lib/**
+**/Lib
+**/site-packages
 **/etc
 **/Include
 **/share
