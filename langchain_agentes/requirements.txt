@@ -5,3 +5,4 @@ python-dotenv==1.0.1
 langchainhub==0.1.15
 pandas==2.2.2
 langsmith==0.5.1
+numpy==2.4.1
